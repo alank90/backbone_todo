@@ -1,4 +1,4 @@
-// js/views/app.js
+// js/views/app-view.js
 
   var app = app || {};
 

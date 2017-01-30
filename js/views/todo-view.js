@@ -1,4 +1,4 @@
-// js/views/todos.js
+// js/views/todoo-view.js(todos.js)
 
   var app = app || {};
 
@@ -58,7 +58,7 @@
     },
 
     // NEW - Toggle the `"completed"` state of the model.
-    togglecompleted: function() {
+    toggleCompleted: function() {
       this.model.toggle();
     },
 
